@@ -1,7 +1,7 @@
 # Hotel_Management
-First Coding Project in Java on a Hotel Management System. Leaded a team of 4(myself included) to develop Java code for a Computer Science project in Grade 12.
+First Coding Project in Java on a Hotel Management System. Led a team of 4 to develop Java code for a Computer Science project in Grade 12.
 
-The code is designed to handle Hotel transactions such as
+The code is designed to handle Hotel Management transactions such as
 Room Bookings, Check Ins, Check Outs, Club and Restaurant services.
 
 Developed the code during the 12th Grade as a team of 4.
